@@ -1,0 +1,11 @@
+git quick commands 
+
+unstage the changes 
+git reset <file-name> - to unstage the filename changes from git staging area
+git reset - to unstage the latest file from git staging area
+
+un-commit the changes
+git reset HEAD-1
+
+un-commit the changes
+git reset <commit-id> - for eg. when you want to make any commit the latest commit then use this command
